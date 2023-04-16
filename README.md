@@ -31,7 +31,7 @@ Interested in reading about how we ran the booth and the various shenanigans we 
 |:--------------------------------------------------------|:-------------------------------------------------------------------------|
 | [`setup`](setup.md)                                     | How we set up the booth                                                  |
 | [`running-the-booth`](running-the-booth.md)             | How we ran the booth, from the Orpheus challenge to sticker distribution |
-| [`programming-shenanigans`](programming-shenanigans.md) | Hmm... I wonder what this is about...                                    |
+| [`assorted-shenanigans`](assorted-shenanigans.md) | Hmm... I wonder what this is about...                                    |
 | [`sam-talk`](sam-talk.md)                               | Sam's talk on Hack Club Bank and open-source banking                     |
 
 ## Credits
