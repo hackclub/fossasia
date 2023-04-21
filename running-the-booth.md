@@ -6,8 +6,6 @@ Running the booth was a lot of fun! We had a lot of people come by and ask us qu
 
 The drawing challenge also received a lot of attention, with people coming by to draw their own versions of Orpheus. You can see some of the entries [here.](photos/challenge)
 
-Here's my reflection on the booth:
-
 ## What we did well
 
 - Many people were interested in Hack Club and what we do, and we were able to answer their questions and introduce them to our projects.
