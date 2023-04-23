@@ -12,12 +12,12 @@ Overall, the summit was a remarkable experience for all of us, and we look forwa
 
 ## Event rundown
 
-| Day        | Event                                                              |
-|:-----------|:-------------------------------------------------------------------|
-| 12th April | Hack Club booth setup in the afternoon                             |
-| 13th April | Hack Club booth opens                                              |
-| 14th April | Hack Club booth continues, and we did some programming shenanigans |
-| 15th April | Sam gave a talk on Hack Club Bank and open-source banking          |
+| Day        | Event                                                               |
+|:-----------|:--------------------------------------------------------------------|
+| 12th April | Hack Club booth setup in the afternoon                              |
+| 13th April | Hack Club booth opens                                               |
+| 14th April | Hack Club booth continues, and we did some programming shenanigans. |
+| 15th April | Sam gave a talk on Hack Club's open source projects.                |
 
 ## Photos
 
@@ -31,8 +31,8 @@ Interested in reading about how we ran the booth and the various shenanigans we 
 |:--------------------------------------------------------|:-------------------------------------------------------------------------|
 | [`setup`](setup.md)                                     | How we set up the booth                                                  |
 | [`running-the-booth`](running-the-booth.md)             | How we ran the booth, from the Orpheus challenge to sticker distribution |
-| [`assorted-shenanigans`](assorted-shenanigans.md) | Hmm... I wonder what this is about...                                    |
-| [`sam-talk`](sam-talk.md)                               | Sam's talk on Hack Club Bank and open-source banking                     |
+| [`assorted-shenanigans`](assorted-shenanigans.md)       | Hmm... I wonder what this is about...                                    |
+| [`sam-talk`](sam-talk.md)                               | Sam's talk on Hack Club's open source projects.                          |
 
 ## Credits
 
